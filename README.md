@@ -40,4 +40,6 @@ Add-Numbers/
 │
 ├── index.html
 ├── README.md
-└── Add-Numbers.apk
+└── Mathematical_Pattern.zip
+
+The zip include an apk version of the app
