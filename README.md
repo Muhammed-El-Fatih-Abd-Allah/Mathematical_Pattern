@@ -31,7 +31,7 @@ The application allows the user to select a number from **3 to 10**, enter a num
 - **CSS** — Styling and layout
 - **JavaScript** — Application logic and calculations
 
-The JavaScript is embedded directly inside the HTML file, while the CSS is stored in a separate stylesheet.
+The JavaScript is embedded directly inside the HTML file so is the CSS. 
 
 ## Project Structure
 
