@@ -39,6 +39,5 @@ The JavaScript is embedded directly inside the HTML file, while the CSS is store
 Add-Numbers/
 │
 ├── index.html
-├── style.css
 ├── README.md
 └── Add-Numbers.apk
